@@ -1,11 +1,9 @@
-
-
 using System;
 
 class Program
 {
-	public Static void Main()
-	{
-		Console.Write("Hello, World!");
-	}
+    public static void Main()
+    {
+        Console.WriteLine("Hello, World!");
+    }
 }
